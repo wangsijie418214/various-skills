@@ -21,5 +21,8 @@
   </mirror> 
 ```
 
-##  华为镜像库
+##  华为maven镜像库
 > https://mirrors.huaweicloud.com/repository/maven/opticlj/
+
+##  华为开源镜像站
+> https://mirrors.huaweicloud.com/
